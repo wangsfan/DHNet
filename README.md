@@ -11,12 +11,11 @@ The second stage mitigates the catastrophic forgetting of the hypernetwork by co
 
 ## Dependencies
 - numpy==1.23.5
-- torch==1.12.1  
-- torch-geometric==2.3.1  
-- torch-cluster==1.6.0
-- torch-sparse==0.6.16   
-- torch-scatter==2.1.0  
-- ogb==1.3.6 
+- torch==1.12.1
+- torchvision==0.13.1
+- timm==0.4.9
+- continuum==1.2.7 
+
 
 
 ## Usage
