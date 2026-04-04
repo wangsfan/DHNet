@@ -1,6 +1,6 @@
 # DHNet
 ## Introduction
-This is our implementation of our paper *Debiased Hypernetwork Is A Generated Class-Incremental Learner*.
+This is our implementation of our paper *Debiased Hypernetworks Are Generative Class-Incremental Learners*. Accepted by IEEE Transactions on Multimedia, http://doi.org/10.1109/TMM.2026.3673536
 
 **TL;DR**: A generated adapter based method for class-incremental learning.
 
