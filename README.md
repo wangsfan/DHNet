@@ -1,6 +1,17 @@
 # DHNet
 ## Introduction
-This is our implementation of our paper *Debiased Hypernetworks Are Generative Class-Incremental Learners*. Accepted by IEEE Transactions on Multimedia, http://doi.org/10.1109/TMM.2026.3673536
+This is our implementation of our paper *Debiased Hypernetworks Are Generative Class-Incremental Learners. IEEE Transactions on Multimedia, 28, 2026, 7401-7413. Authors: Shaofan Wang, Pengli Guo, Weixing Wang, Yanfeng Sun, Baocai Yin*. Cite this paper if you use the code
+```
+@ARTICLE{Wang2026debiased,
+  author={Wang, Shaofan and Guo, Pengli and Wang, Weixing and Sun, Yanfeng and Yin, Baocai},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Debiased Hypernetworks Are Generative Class-Incremental Learners}, 
+  year={2026},
+  volume={28},
+  number={},
+  pages={7401-7413},
+  }
+```
 
 **TL;DR**: A generative adapter based method for class-incremental learning.
 
